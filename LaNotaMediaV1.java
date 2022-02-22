@@ -23,6 +23,6 @@ public class LaNotaMediaV1 {
             sumNotas += d;
         }
         double media = sumNotas/notas.length;
-        System.out.println(String.format("La media es %.2f", media))
+        System.out.println(String.format("La media es %.2f", media));
     }
 }
