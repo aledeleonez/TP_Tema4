@@ -6,6 +6,6 @@ public class App {
         Scanner teclado = new Scanner(System.in);
 
         LaNotaMediaV2 media = new LaNotaMediaV2();
-        media.notaMedia(teclado)
+        media.notaMedia(teclado);
     }
 }
