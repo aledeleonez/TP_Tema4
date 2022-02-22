@@ -14,6 +14,6 @@ public class LaNotaMediaV2 {
             contador++;
         }
         media = suma/contador;
-        System.out.println(String.format("La media es %.2f", media))
+        System.out.println(String.format("La media es %.2f", media));
     }
 }
