@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class adivinarNumero {
-    
+    //Ejercicio4
     public void adivinarNum(Scanner teclado){
         int numero = (int) (Math.random()*100)+1;
         System.out.println("¿En qué numero entre 1 y 100 estoy pensando?");

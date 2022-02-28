@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class LaNotaMediaV1 {
-    
+    //Ejercicio1
 
 
     public void notaMedia(Scanner teclado){

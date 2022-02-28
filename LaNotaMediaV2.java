@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class LaNotaMediaV2 {
-    
+    //Ejercicio2
     public void notaMedia(Scanner teclado){
         double nota = 0;
         double suma = 0;
