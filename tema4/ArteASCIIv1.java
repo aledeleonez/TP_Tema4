@@ -2,7 +2,7 @@ package tema4;
 import java.util.Scanner;
 
 public class ArteASCIIv1 {
-    
+        //Ejercicio 10
     public void figura(Scanner teclado){
         int anchura;
         int altura;
