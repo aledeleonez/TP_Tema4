@@ -2,7 +2,7 @@ package tema4;
 import java.util.Scanner;
 
 public class CapitalFrancia  {
-
+       //Ejercicio6
     public void capital(Scanner teclado){
         int numIntentos = 1;
         String respuesta;
