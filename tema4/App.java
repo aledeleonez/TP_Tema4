@@ -40,24 +40,28 @@ public class App {
                     ejercicio6.capital(teclado);
                     break;
                 case 7:
-
+                    PeliculasV1 ejercicio7 = new PeliculasV1();
+                    ejercicio7.cartelera(teclado);
                     break;
                 case 8:
-
+                    PeliculasV2 ejercicio8 = new PeliculasV2();
+                    ejercicio8.carteleraV2(teclado);
                     break;
                 case 9:
-
+                    MultiploDe3 ejercicio9 = new MultiploDe3();
+                    ejercicio9.multiplo(teclado);
                     break;
                 case 10:
                     ArteASCIIv1 ejercicio10 = new ArteASCIIv1();
                     ejercicio10.figura(teclado);
                     break;
                 case 11:
-
+                    ArteASCIIv2 ejercicio11 = new ArteASCIIv2();
+                    ejercicio11.figuras(teclado);
                     break;
-
-
-
+                default:
+                    System.out.println("\nOpcion no valida\n");
+                    break;
             }
         }
         System.out.println("Saliendo . . .");
@@ -65,7 +69,7 @@ public class App {
 
 
     private static void menu(){
-        System.out.println("\n\nQue ejercicio quieres ver: \n" );
+        System.out.println("\nQue ejercicio quieres ver: \n" );
         System.out.println("1. La nota media (versión 1)");
         System.out.println("2. La nota media (versión 2)");
         System.out.println("3. La nota media (versión 3)");
@@ -77,7 +81,7 @@ public class App {
         System.out.println("9. Escribir un múltiplo de tres");
         System.out.println("10. Arte ASCII 1");
         System.out.println("11. Arte ASCII 2");
-        System.out.println("12. Salir");
+        System.out.println("12. Salir\n");
     }
 
 
@@ -85,3 +89,4 @@ public class App {
 
 
 }
+
