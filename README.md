@@ -1,7 +1,11 @@
-# TP_Tema4
-Ejercicios del tema 4
+# Técnicas de programación - Tema 4
+## Alejandro de Leon Fernández
+## Pedro Manuel López Gutiérrez
 
-https://github.com/aledeleonez/TP_Tema4
+
+El código de los ejercicios se encuentra en el directorio tema4/ y el main es tema4/App.java
+
+El código ha sido realizado con intelliJ de forma colaborativa
 
 
 ## 6. ¿Qué hace este algoritmo?
